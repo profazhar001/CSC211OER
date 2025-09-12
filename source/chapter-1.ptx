@@ -16,8 +16,8 @@
   <xi:include href='Chapter1/2-print.ptx'/>
   <xi:include href='Chapter1/3-implicit-variable-access.ptx'/>
   <xi:include href='Chapter1/4-another-example.ptx'/>
-  <xi:include href='Chapter1/5-yet-another-example.ptx'/>
-  <xi:include href='Chapter1/6-a-more-complicated-example.ptx'/>
+  <xi:include href='Chapter1/5-a-more-complicated-example.ptx'/>
+  <xi:include href='Chapter1/6-yet-another-example.ptx'/>
   <xi:include href='Chapter1/7-constructors.ptx'/>
   <xi:include href='Chapter1/8-initialize-or-construct.ptx'/>
   <xi:include href='Chapter1/9-one-last-example.ptx'/>
