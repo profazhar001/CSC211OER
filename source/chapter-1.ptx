@@ -12,6 +12,7 @@
   </introduction>
 
   <!-- include sections -->
+  <xi:include href='Chapter1/0-time.ptx'/>
   <xi:include href='Chapter1/1-objects-and-functions.ptx'/>
   <xi:include href='Chapter1/2-print.ptx'/>
   <xi:include href='Chapter1/3-implicit-variable-access.ptx'/>
