@@ -1,0 +1,123 @@
+<?xml version="1.0" ?><section xml:id="chapter11_glossary">
+    <title>Glossary</title>
+    <glossary>
+        <gi>
+            <title>member function</title>
+            <p>A function that operates on an object that is passed as an implicit parameter named <c>this</c>
+            .</p>
+        </gi>
+        <gi>
+            <title>nonmember function</title>
+            <p>A function that is not a member of any structure definition. Also called a <q>free-standing</q>
+            function.</p>
+        </gi>
+        <gi>
+            <title>invoke</title>
+            <p>To call a function <q>on</q> an object, in order to pass the object as an implicit
+            parameter.</p>
+        </gi>
+        <gi>
+            <title>current object</title>
+            <p>The object on which a member function is invoked. Inside the member function, we can refer
+            to the current object implicitly, or by using the keyword <c>this</c>.</p>
+        </gi>
+        <gi>
+            <title>this</title>
+            <p>A keyword that refers to the current object. <c>this</c> is a pointer, which makes it difficult
+            to use, since we do not cover pointers in this book.</p>
+        </gi>
+        <gi>
+            <title>interface</title>
+            <p>A description of how a function is used, including the number and
+            types of the parameters and the type of the return value.</p>
+        </gi>
+        <gi>
+            <title>function declaration</title>
+            <p>A statement that declares the interface to a function without
+            providing the body. Declarations of member functions appear inside
+            structure definitions even if the definitions appear outside.</p>
+        </gi>
+        <gi>
+            <title>implementation</title>
+            <p>The body of a function, or the details of how a function works.</p>
+        </gi>
+        <gi>
+            <title>constructor</title>
+            <p>A special function that initializes the instance variables of a
+            newly-created object.</p>
+        </gi>
+    </glossary>
+    <reading-questions>
+  <exercise label="glossary11_1">
+    <statement>
+      <p>Match each phrase with the corresponding definition by dragging the phrase into the
+        appropriate box.</p>
+    </statement>
+    <feedback><p>
+      Try again!
+    </p></feedback>
+    <cardsort>
+      <match>
+        <premise order="1">member function</premise>
+        <response>A function that operates on an object that is passed as an implicit parameter
+          named &quot;this&quot;.</response>
+      </match>
+      <match>
+        <premise order="2">nonmember function</premise>
+        <response>A free-standing function that is not part of any structure definition.</response>
+      </match>
+      <match>
+        <premise order="3">current object</premise>
+        <response>The object on which a member function is invoked.</response>
+      </match>
+    </cardsort>
+  </exercise>
+  <exercise label="glossary11_2">
+    <statement>
+      <p>Match each phrase with the corresponding definition by dragging the phrase into the
+        appropriate box.</p>
+    </statement>
+    <feedback><p>
+      Try again!
+    </p></feedback>
+    <cardsort>
+      <match>
+        <premise order="1">invoke</premise>
+        <response>To call a function <q>on</q> an object.</response>
+      </match>
+      <match>
+        <premise order="2">this</premise>
+        <response>A keyword that refers to the current object.</response>
+      </match>
+      <match>
+        <premise order="3">interface</premise>
+        <response>A description of how a function is used.</response>
+      </match>
+    </cardsort>
+  </exercise>
+  <exercise label="glossary11_3">
+    <statement>
+      <p>Match each phrase with the corresponding definition by dragging the phrase into the
+        appropriate box.</p>
+    </statement>
+    <feedback><p>
+      Try again!
+    </p></feedback>
+    <cardsort>
+      <match>
+        <premise order="1">function declaration</premise>
+        <response>A statement that declares the interface to a function without providing the body.</response>
+      </match>
+      <match>
+        <premise order="2">implementation</premise>
+        <response>The body of a function, or the details of how a function works.</response>
+      </match>
+      <match>
+        <premise order="3">constructor</premise>
+        <response>A special function that initializes the instance variables of a newly-created
+          object.</response>
+      </match>
+    </cardsort>
+  </exercise>
+    </reading-questions>
+</section>
