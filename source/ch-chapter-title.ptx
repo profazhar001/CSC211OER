@@ -8,6 +8,19 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="sec-section-name.ptx" />
+  <xi:include href='Chapter1/1-objects-and-functions.ptx'/>
+  <xi:include href='Chapter1/2-print.ptx'/>
+  <xi:include href='Chapter1/3-implicit-variable-access.ptx'/>
+  <xi:include href='Chapter1/4-another-example.ptx'/>
+  <xi:include href='Chapter1/5-yet-another-example.ptx'/>
+  <xi:include href='Chapter1/6-a-more-complicated-example.ptx'/>
+  <xi:include href='Chapter1/7-constructors.ptx'/>
+  <xi:include href='Chapter1/8-initialize-or-construct.ptx'/>
+  <xi:include href='Chapter1/9-one-last-example.ptx'/>
+  <xi:include href='Chapter1/10-header-files.ptx'/>
+  <xi:include href='Chapter1/11-glossary.ptx'/>
+  <xi:include href='Chapter1/12-exercises.ptx'/>
+  <xi:include href='Chapter1/13-mixed-up-code.ptx'/>
+  <xi:include href='Chapter1/14-coding-practice.ptx'/>
 
 </chapter>
