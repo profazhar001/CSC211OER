@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<publication>
+  <common>
+  </common>
+
+
+  <!-- Set where external assets and generated assets will be   -->
+  <!-- stored or created.  Directories are relative to the main -->
+  <!-- source PreTeXt file                                      -->
+  <source>
+    <!-- Paths to folders containing external assets and generated assets -->
+    <!-- relative to your main source file.                               -->
+    <directories external="../assets" generated="../generated-assets" />
+  </source>
+
+  <numbering>
+  </numbering>
+
+  <latex>
+  </latex>
+
+  <html>
+    <platform host="runestone" />
+  </html>
+
+  <epub>
+  </epub>
+
+
+  <!-- To use WeBWorK, you need a server.  -->
+    <!-- <webwork server="https://webwork-ptx.aimath.org" /> -->
+    <!-- @course, @coursepassword, @user, and @userpassword can also be set. -->
+    <!-- You can also set how tasks are revealed for webwork problems using the @task-reveal attribute on the above-->
+
+</publication>
